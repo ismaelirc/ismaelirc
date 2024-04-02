@@ -9,6 +9,14 @@
         </samp>
 </h3>
 
+<p align="center"> 	
+  <samp>	
+    <br>	
+      I am a full stack web application developer from <b>Curitiba</b>	
+    <br>	
+    <br>	
+  </samp>	
+</p>
 
 <p align="center">
  <a href="https://isma-dev.netlify.app/" target="blank">
