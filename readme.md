@@ -31,9 +31,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ismaelirc.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ismaelirc/ismaelirc/issues)
-
+ 📧 &emsp; Reach me anytime: ismaelirc@gmail.com<br/><br/>
+ 
 </p>
 
 <br/>
