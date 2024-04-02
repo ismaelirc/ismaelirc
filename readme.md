@@ -10,32 +10,16 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
- <a href="https://ismaelirc.com" target="blank">
+ <a href="https://isma-dev.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ismaelirc" />
  </a>
- <a href="https://linkedin.com/in/" target="_blank">
+ <a href="https://www.linkedin.com/in/ismaelricardocosta/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ismaelirc"/>
  </a>
- <!-- <a href="https://dev.to/ismaelirc" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ismaelirc" />
- </a> -->
  <a href="https://instagram.com/ismaelirc" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ismaelirc" />
  </a> 
- <a href="https://facebook.com/ismaelirc.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ismaelirc"  />
-  </a> 
 </p>
 <br />
 
@@ -79,12 +63,6 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ismaelirc&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ismaelirc/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ismaelirc&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ismaelirc/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ismaelirc&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ismaelirc/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=ismaelirc&repo=ismaelirc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ismaelirc/ismaelirc)
-
 <p align="left">
   <a href="https://github.com/ismaelirc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -106,10 +84,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/ismaelirc"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ismaelirc&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ismaelirc"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ismaelirc&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ismaelirc"><img alt="Ismaelirc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ismaelirc&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ismaelirc"><img alt="Ismaelirc's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ismaelirc&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelirc&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Ismaelirc's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelirc&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
