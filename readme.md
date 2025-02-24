@@ -68,7 +68,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 <br/>
-
+<br/>
 <p align="left">
   <a href="https://github.com/ismaelirc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -76,12 +76,6 @@
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/ismaelirc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelirc&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/ismaelirc">
