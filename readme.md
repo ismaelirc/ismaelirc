@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://isma-dev.netlify.app/">Ismael</a></b>
+                <b><a target="_blank" href="https://www.isma-tech.com/">Ismael</a></b>
         </samp>
 </h3>
 
@@ -19,16 +19,13 @@
 </p>
 
 <p align="center">
-<!-- <a href="https://isma-dev.netlify.app/" target="blank">
+<a href="https://www.isma-tech.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ismaelirc" />
  </a>
- -->
+
  <a href="https://www.linkedin.com/in/ismaelricardocosta/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ismaelirc"/>
  </a>
- <a href="https://instagram.com/ismaelirc" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ismaelirc" />
- </a> 
 </p>
 <br />
 
@@ -42,8 +39,6 @@
  
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
@@ -64,14 +59,11 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heml](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-<br/>
 <br/>
 <p align="left">
   <a href="https://github.com/ismaelirc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
 <hr/>
 <br/>
 
