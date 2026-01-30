@@ -38,11 +38,11 @@
  📧 &emsp; Reach me anytime: ismaelirc@gmail.com<br/><br/>
  
 </p>
-
+<!-- 
 <br/>
-
+<!-- 
 ## Use To Code
-
+<!-- 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -63,7 +63,7 @@
 <p align="left">
   <a href="https://github.com/ismaelirc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
+-->
 <hr/>
 <br/>
 
